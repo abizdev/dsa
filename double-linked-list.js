@@ -135,8 +135,10 @@ list.prepend('kiwi');
 list.insert(3, 'mango');
 list.remove(1);
 
-console.log(list.printList())
 console.log(list.reverse())
+
+// console.log(list.printList())
+// console.log()
 
 
 
